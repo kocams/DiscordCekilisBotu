@@ -1,2 +1,2 @@
 # cekilis-dc-bot
-Said Cekilis Botu
+Discord Cekilis Botu
