@@ -1,2 +1,0 @@
-# DicordCekilisBotu
-Discord Cekilis Botu
