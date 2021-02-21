@@ -1,2 +1,2 @@
-# cekilis-dc-bot
+# DicordCekilisBotu
 Discord Cekilis Botu
